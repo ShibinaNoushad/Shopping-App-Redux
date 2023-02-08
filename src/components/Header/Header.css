@@ -1,0 +1,14 @@
+.col {
+  background-color: red;
+  height: 3rem;
+}
+.space{
+    margin-right: 60%;
+    margin-left: 10%;
+}
+.ful{
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: large;
+}
